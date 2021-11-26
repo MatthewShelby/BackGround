@@ -1,0 +1,28 @@
+<svg 
+width="1600" 
+height="220" 
+id="svg" 
+ 
+xmlns="http://www.w3.org/2000/svg" 
+class="transition duration-300 ease-in-out delay-150">
+<defs>
+<linearGradient 
+id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+<stop offset="5%" stop-color="#002bdcff"></stop>
+<stop offset="95%" stop-color="#ff00ff">
+<!-- <stop offset="95%" stop-color="#32ded4ff"> -->
+</stop></linearGradient>
+</defs>
+
+<!-- <path d="M.005 121C311 121 409.898-.25 811 0c400 0 500 121 789 121v77H0s.005-48 .005-77z" 
+stroke="none" stroke-width="0" fill="url(#gradient)" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 350)">
+</path> -->
+
+
+<path xmlns="http://www.w3.org/2000/svg" fill="url(#gradient)" fill-rule="evenodd" 
+d="M.005 121C311 121 409.898-.25 811 0c400 0 500 121 789 121v77H0s.005-48 .005-77z" 
+transform="matrix(-1 0 0 1 1600 0)"/></svg>
+
+
+
+<!-- d="M.005 121C311 121 409.898-.25 811 0c400 0 500 121 789 121v77H0s.005-48 .005-77z"  -->
